@@ -9,7 +9,7 @@ public class Department {
 		this.name = name;
 	}
 	
-	public String getnName() {
+	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
